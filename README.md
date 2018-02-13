@@ -6,6 +6,6 @@
 
 ![2 screens](Potato.jpg)
 
-![1 screen](Potato1.jpg)
+![1 screen](Potato11.jpg)
 
 ![2 screens](Potato2.jpg)
