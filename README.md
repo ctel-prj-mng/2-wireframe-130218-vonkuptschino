@@ -2,10 +2,10 @@
 
 Продолжаем работу над сайтом молодого писателя. Проектные макеты мобильной версии:
 
-![5 screens](Untilted.jpg)
+![5 screens](Potato1.jpg)
 
 ![2 screens](Potato.jpg)
 
-![1 screen](Potato(1).jpg)
+![1 screen](Potato1.jpg)
 
-![2 screens](Potato(2).jpg)
+![2 screens](Potato2.jpg)
